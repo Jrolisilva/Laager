@@ -16,3 +16,7 @@ Inicializa um novo nó com o valor especificado.
 #### `self.inverte_lista(head)`
 
 Inverte a ordem dos elementos na lista encadeada. Recebe o nó da cabeça da lista como parâmetro e retorna o novo nó da cabeça da lista após a inversão.
+
+## Exemplo 
+
+![Captura de tela de 2023-12-13 17-48-42](https://github.com/Jrolisilva/Laager/assets/71659399/4d7be1d6-776b-4036-9936-4f76f1c9756e)
